@@ -137,7 +137,7 @@ button:hover {
 
 #clientTable th, 
 #clientTable td {
-    padding: 8px;
+    padding: 4px;
     min-width: 80px;
     text-align: left;
     border: 1px solid #95A5A6;
@@ -176,7 +176,7 @@ footer, a {
     
     #clientTable th, 
     #clientTable td {
-        padding: 4px 2px; /* Diminui o espaço interno */
+        padding: 2px 1px; /* Diminui o espaço interno */
         min-width: 40px;  /* Diminui a largura mínima */
     }
 }
@@ -220,7 +220,7 @@ footer, a {
     
     #clientTable th, 
     #clientTable td {
-        padding: 6px 4px;
-        min-width: 60px;
+        padding: 3px 2px;
+        min-width: 30px;
     }
 
